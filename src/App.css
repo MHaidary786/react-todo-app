@@ -5,6 +5,10 @@ body{
   overflow: hidden;
 }
 
+.headline{
+  color: #212929;
+}
+
 h1{
   text-align: center;
 }

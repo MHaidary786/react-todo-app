@@ -103,7 +103,7 @@ function App() {
   }
   return (
     <div className="app">
-      <h1>My Todos</h1>
+      <h1 className="headline">My Todos</h1>
 
       <div className="todo-wrapper">
         <div className="todo-input">
